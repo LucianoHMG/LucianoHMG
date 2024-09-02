@@ -14,7 +14,7 @@ Atualmente, estou trabalhando em um projeto open source para otimizar treinos pe
 - Gerontologia
 
 ## 📫 Contato
-- **Email:** seuemail@example.com
+- **Email:** lucianowtp@gmail.com 
 - **GitHub:** [github.com/LucianoHMG](https://github.com/LucianoHMG)
 
 ## 📈 Estatísticas do GitHub
