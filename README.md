@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm LucianoHMG</h1>
+<h1 align="center">Olá 👋,meu nome é Luciano Girão </h1>
 <h3 align="center">Estudante de Tecnólogo em Gerontologia | Entusiasta de AI e Tecnologia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucianohmg&label=Profile%20views&color=0e75b6&style=flat" alt="lucianohmg" /> </p>
