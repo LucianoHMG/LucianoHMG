@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Cloud computing, IA gen, python SQL**
 
-- Me aperfeiçoar e atualizar [Em cloud computing no momento é](https://azure.microsoft.com/pt-br/free/search/?ef_id=_k_CjwKCAjwxNW2BhAkEiwA24Cm9N6ndwQOu94r9abazlOK0zaNlp-TETuUwkZx873W9LSlt7R16l2SzhoC2V8QAvD_BwE_k_&OCID=AIDcmmzmnb0182_SEM__k_CjwKCAjwxNW2BhAkEiwA24Cm9N6ndwQOu94r9abazlOK0zaNlp-TETuUwkZx873W9LSlt7R16l2SzhoC2V8QAvD_BwE_k_&gad_source=1&gclid=CjwKCAjwxNW2BhAkEiwA24Cm9N6ndwQOu94r9abazlOK0zaNlp-TETuUwkZx873W9LSlt7R16l2SzhoC2V8QAvD_BwE)
+- Me aperfeiçoar e atualizar [Em cloud computing e IA Generativa ](https://azure.microsoft.com/pt-br/free/search/?ef_id=_k_CjwKCAjwxNW2BhAkEiwA24Cm9N6ndwQOu94r9abazlOK0zaNlp-TETuUwkZx873W9LSlt7R16l2SzhoC2V8QAvD_BwE_k_&OCID=AIDcmmzmnb0182_SEM__k_CjwKCAjwxNW2BhAkEiwA24Cm9N6ndwQOu94r9abazlOK0zaNlp-TETuUwkZx873W9LSlt7R16l2SzhoC2V8QAvD_BwE_k_&gad_source=1&gclid=CjwKCAjwxNW2BhAkEiwA24Cm9N6ndwQOu94r9abazlOK0zaNlp-TETuUwkZx873W9LSlt7R16l2SzhoC2V8QAvD_BwE)
 
 - 🤝 Criar uma networking **Sobre IA fundaments**
 
